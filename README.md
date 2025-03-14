@@ -49,7 +49,7 @@ To automate the monitoring and booking process, a Python-based system was develo
 
 #### **1. CAPTCHA Bypass**
 
-At the first stage, the system used Selenium to log into the website and successfully bypassed Google hidden reCAPTCHA through an internally developed method, without relying on third-party CAPTCHA-solving services. This innovative approach allowed automated login and session maintenance.
+At the first stage, the system successfully bypassed Google hidden reCAPTCHA through an internally developed method, without relying on third-party CAPTCHA-solving services or automation tools like Selenium. This innovative approach allowed automated login and session maintenance.
 
 #### **2. Session Maintenance**
 
